@@ -10,3 +10,7 @@
 /*.txt
 /*.iml
 /.idea/
+.settings
+target
+.classpath
+.project
